@@ -30,3 +30,9 @@ The basic application requires a user to 'login' by identifying his/her role and
 
 ### Functions
 As far as possible, features has been represented in functions to maximise the reusability of the code and make maintenance easier. I tried to find a balance between abstraction and readability - and not sure I succeeded!
+
+### How to run the application
+The application runs in the python console and can be run using the following command from the root directory
+``` python
+python3 app.py
+```
